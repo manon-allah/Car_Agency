@@ -1,0 +1,82 @@
+body
+{
+    background-color: rgb(61, 8, 8);
+    
+}
+*
+{
+    color: white;
+}
+
+  img
+  {
+      width: 300px;
+  }
+  marquee
+  {
+
+      font-size: 50px;
+  }
+  .ooooo
+  {
+      padding: 50px;
+  }
+  td,th
+  {
+      text-align: center;
+  }
+  table
+  {
+      border: 3px solid white;
+      border-radius: 10%;
+  }
+
+nav
+{
+
+    position: fixed;
+    background-color :rgb(61, 8, 8);
+    width: 200px;
+    padding: 35px;
+    height: 900px;
+    text-align: center;
+    margin: -200px 0px 0px -20px;
+}
+
+ul
+
+{
+    margin: 120px 0px 0px -39px;
+    color: white;
+    list-style-type: none;
+
+}
+li
+{
+    margin: 20px;
+}
+#B:hover , #M:hover , #N:hover , #F:hover , #P:hover , #S:hover
+{
+    background-color:  rgb(245, 199, 199);
+}
+
+#B , #M , #N , #F , #P , #S
+{
+    color: white;
+    padding: 4px;
+    width: 190px;
+}
+a
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin: 20px;
+    font-size: 20px;
+
+}
+a:hover
+{
+    
+    color: rgb(61, 8, 8) ;
+  
+}

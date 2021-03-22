@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    margin-bottom: 10px;
+}
+#logo
+{
+    width:1528px;
+    height: 310px;
+    margin: -9px;
+
+}
+.img{
+    width: 100%;
+}
+.img img{
+    width: 100%;
+    
+}
+.contaier{
+    width: 100%;
+    height: auto;
+    display: flex;
+    
+}
+.one{
+    width: 33.33%;
+    margin: 5px;
+}
+.one h3{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.one h4{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.one img{
+    width: 100%;
+   
+}
+.two{
+    width: 33.33%;
+    float: left;
+    margin: 5px;
+}
+.two h3{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.two h4{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.two img{
+    width: 100%;
+    
+}
+.three{
+    width: 33.33%;
+    float: right;
+    margin: 5px;
+}
+.three h3{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.three h4{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.three img{
+    width: 100%;
+   
+}
+.one #sub{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 200px;
+    padding: 1px;
+    background-color: black;
+    color: white;
+}
+.two #sub{
+    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-left: 200px;
+    padding: 1px;
+    background-color: black;
+    color: white;
+}
+.three #sub{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 200px;
+    padding: 1px;
+    background-color: black;
+    color: white;
+}
+.footer{
+    margin-top: 100px;
+    clear: both;
+    background: rgb(0, 0, 0); 
+    padding: 30px;
+}
+.fot{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}

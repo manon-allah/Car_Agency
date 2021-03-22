@@ -1,0 +1,255 @@
+
+.back{
+    
+    position: fixed;
+    top: 0px;
+    z-index: -1;
+}
+.back img{
+    margin-left: -70px;
+    float: right;
+    width: 1369px;
+    opacity: 0.8;
+}    
+*{
+    margin: 0px;
+}
+.header{
+    background: rgb(61, 8, 8); 
+    padding: 30px;
+}
+p.b_h{
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+}
+
+nav
+{
+
+    position: fixed;
+    background-color :rgb(61, 8, 8);
+    width: 200px;
+    padding: 35px;
+    height: 900px;
+    text-align: center;
+    margin: -100px 0px 0px 0px;
+}
+
+ul
+
+{
+    margin: 120px 0px 0px -39px;
+    color: white;
+    list-style-type: none;
+
+}
+li
+{
+    margin: 20px;
+}
+#B:hover , #M:hover , #N:hover , #F:hover , #S:hover , #R:hover
+{
+    background-color: rgb(245, 199, 199);
+}
+#B , #M , #N , #F , #S , #R
+{
+    color: white;
+    padding: 4px;
+    width: 190px;
+}
+a
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin: 20px;
+    font-size: 20px;
+
+}
+a:hover
+{
+    
+    color: rgb(61, 8, 8) ;
+  
+}
+/* menna */
+
+
+.bmw{
+    width: 50%;
+    float: left;
+    height: 600px;
+}
+.bmw img{
+    width: 600px;
+    margin-top: 50px;
+    height: 350px;
+    margin-left: 150px;
+}
+.bmw1{
+    width: 50%;
+    margin-top: 70px;
+    float: right;
+}
+.bmw1 pre{
+    font-family: Verdana;
+    font-size: 15px;
+}
+.bmw1 h4{
+    margin-bottom: 20px;
+    margin-left: 85px;
+    font-size: 25px;
+    font-family: Verdana;
+}
+.bmw1 #sub{
+    padding: 15px;
+    width: 150px;
+    background-color:rgb(61, 8, 8);
+    color: white;
+    margin-left: 85px;
+
+}
+.jeep{
+    clear: both;
+    width: 50%;
+    margin-top: -140px;
+    float: right;
+}
+.jeep img{
+    width: 600px;
+    height: 370px;
+}
+.jeep1{
+  /*clear: both;
+   /* width: 50%;*/
+   margin-top: -140px;
+    float: left;
+}
+.jeep1 pre{
+    font-family: Verdana;
+    font-size: 15px;
+}
+.jeep1 h4{
+    margin-bottom: 20px;
+    margin-left: 85px;
+    font-size: 25px;
+    font-family: Verdana;
+}
+.jeep1 #sub{
+    padding: 15px;
+    width: 150px;
+    background-color:rgb(61, 8, 8);
+    color: white;
+    margin-left: 85px;
+
+}
+.mercedes{
+    clear: both;
+    width: 50%;
+    margin-top: 50px;
+    float: left;
+}
+.mercedes img{
+    margin-bottom: 50px;
+    margin-left: 40px;
+    width: 570px;
+    
+   
+}
+.mercedes1{
+    margin-top: 60px;
+    width: 50%;
+    float: right;
+}
+.mercedes1 pre{
+    font-family: Verdana;
+    font-size: 15px;
+}
+.mercedes1 h4{
+    margin-bottom: 20px;
+    margin-left: 85px;
+    font-size: 25px;
+    font-family: Verdana;
+}
+.mercedes1 #sub{
+    padding: 15px;
+    width: 150px;
+    background-color:rgb(61, 8, 8);
+    color: white;
+    margin-left: 85px;
+
+}
+.nissan{
+    width: 50%;
+    margin-top: 50px;
+    float: left;
+}
+.nissan img{
+    margin-top : 40px ;
+    clear: both;
+    width: 600px;
+  float: right;
+   
+}
+
+.nissan1{
+    margin-top: -300px;
+    width: 50%;
+    float: left;
+}
+.nissan1 pre{
+    margin-bottom: 20px;
+    font-family: Verdana;
+    font-size: 15px;
+}
+.nissan1 h4{
+    margin-bottom: 20px;
+    margin-left: 85px;
+    font-size: 25px;
+    font-family: Verdana;
+}
+.nissan1 #sub{
+    padding: 15px;
+    width: 150px;
+    background-color:rgb(61, 8, 8);
+    color: white;
+    margin-left: 85px;
+    margin-bottom: 10px;
+
+}
+.haha{
+    float: right;
+    
+    
+}
+.top{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border:1px soli rgb(61, 8, 8);
+    background: rgb(255, 255, 255);
+    color: rgb(61, 8, 8);
+}
+.fot{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+}
+.footer{
+    margin-top: 100px;
+    clear: both;
+    background: rgb(61, 8, 8); 
+    padding: 30px;
+}
+video
+{
+    
+    float: right;
+    z-index: -10%;
+    width: 96.3%;
+    margin-top: -1  px;
+}
+poster
+{
+    width: 96.3%;
+}
